@@ -1,0 +1,111 @@
+:root {
+    --cor-primaria: hsl(47, 88%, 63%);
+    --cor-secundaria: hsl(0, 0%, 100%);
+    --cor-terciaria: hsl(0, 0%, 50%);
+    --attribution: hsl(228, 45%, 44%);
+    --border: black;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--cor-primaria);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 80px;
+}
+
+main {
+    background-color: var(--cor-secundaria);
+    border-top: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    border-radius: 5%;
+    box-shadow: 10px 10px var(--border);
+    padding: 25px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.ilustracao {
+    border-radius: 10px;
+}
+
+button {
+    border: 1px solid transparent;
+    border-radius: 10%;
+    background-color: var(--cor-primaria);
+    padding: 5px;
+    min-width: 80px;
+    max-height: 25px;
+}
+
+.botao {
+    position: relative;
+    bottom: 2px;
+    text-decoration: none;
+    font-family: 'Figtree', sans-serif;
+    font-size: 15px;
+    color: var(--border);
+}
+
+
+.data {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
+.titulo {
+    font-family: 'Figtree', sans-serif;
+    font-weight: bold;
+}
+
+.titulo:hover {
+    color: var(--cor-primaria);
+}
+
+.descricao {
+    position: relative;
+    width: 280px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: var(--cor-terciaria);
+}
+
+.avatar {
+    display:flex;
+    align-items: center;
+}
+
+.autor {
+    max-height: 25px;
+    min-width: auto;
+    padding-right: 15px;
+}
+
+.nome {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.attribution {
+    padding-top: 120px;
+    font-size: 15px;
+    text-align: center;
+    color: var(--attribution);
+}
+
+a {
+    text-decoration: none;
+}
