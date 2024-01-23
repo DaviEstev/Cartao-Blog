@@ -24,7 +24,7 @@ Projeto simples feito apenas com HTML&CSS, escolhi este projeto, pois queria pr�
 
 ### Captura de tela
 
-!(![Captura de tela 2024-01-19 101030](https://github.com/DaviEstev/Cartao-Blog/assets/111655855/895feca6-35db-495b-8744-bdae05b73a65))
+(![Captura de tela 2024-01-19 101030](https://github.com/DaviEstev/Cartao-Blog/assets/111655855/895feca6-35db-495b-8744-bdae05b73a65)
 
 Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito na página e selecionar “Fazer uma captura de tela”. Você pode escolher uma captura de tela de altura total ou cortada com base no comprimento da página. Se for muito longo, talvez seja melhor cortá-lo.
 
