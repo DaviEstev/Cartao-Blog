@@ -26,7 +26,7 @@ Esta é minha solução para o [desafio do cartão de visualização do blog no 
 
 ### Links
 
-- URL do site ativo: ("https://daviestev.github.io/Cartao-Blog/")
+- URL do site ativo: [URL do site ativo]("https://daviestev.github.io/Cartao-Blog/")
 
 ## Meu processo
 
