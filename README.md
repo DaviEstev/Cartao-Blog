@@ -4,31 +4,28 @@ Esta é minha solução para o [desafio do cartão de visualização do blog no 
 
 ## Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão-geral)
    - [O desafio](#o-desafio)
-   - [Captura de tela](#captura de tela)
+   - [Captura de tela](#captura-de-tela)
    - [Links](#links)
 - [Meu processo](#meu-processo)
-   - [Construído com](#construído com)
-   - [O que aprendi](#o que aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
+   - [Construído com](#construído-com)
+   - [O que aprendi](#o-que-aprendi)
+   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
    - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
-
 ## Visão geral
+Projeto simples feito apenas com HTML&CSS, escolhi este projeto, pois queria práticar alguns conceitos que vi que ainda não estão sólidos para mim, como CSS grid e FlexBox para estilização. Mais num geral eu diria que o escolhi para prática de conceitos bem mais que aprendizado.   
 
 ### O desafio
-
-Os usuários devem ser capazes de:
-
 - Veja os estados de foco e foco para todos os elementos interativos na página
 
 ### Captura de tela
 
-![](./captura de tela.jpg)
+![](![Captura de tela 2024-01-19 101030](https://github.com/DaviEstev/Cartao-Blog/assets/111655855/895feca6-35db-495b-8744-bdae05b73a65)
+tela.jpg)
 
 Adicione uma captura de tela da sua solução. A maneira mais fácil de fazer isso é usar o Firefox para visualizar seu projeto, clicar com o botão direito na página e selecionar “Fazer uma captura de tela”. Você pode escolher uma captura de tela de altura total ou cortada com base no comprimento da página. Se for muito longo, talvez seja melhor cortá-lo.
 
